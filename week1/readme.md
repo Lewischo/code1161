@@ -1,1 +1,2 @@
 TODO: Reflect on what you learned this week and what is still unclear.
+I have learned how to print sentences and gained a very basic understanding of python. However, the implications of such commands remains unclear.
